@@ -1,1 +1,8 @@
+#REQUERIMENTOS
+-Bibliotecas necessárias
 
+streamlit
+numpy
+matplotlib
+sympy
+seaborn
