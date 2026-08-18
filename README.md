@@ -2,7 +2,7 @@
 
 # Checkpoint 4: Differentiated Problem Solving - Limites, Desempenho de APIs e Streamlit
  
-Este repositório contém o projeto aplicado de modelagem matemática desenvolvido para a cadeira de Differentiated Problem Solving. O objetivo é analisar o comportamento do tempo de resposta de uma API à medida que a carga de requisições aumenta, utilizando limites para investigar as regiões críticas.
+Este repositório contém o projeto aplicado de modelagem matemática desenvolvido para a atividade de Differentiated Problem Solving. O objetivo é analisar o comportamento do tempo de resposta de uma API à medida que a carga de requisições aumenta, utilizando limites para investigar as regiões críticas.
  
 **Alunos:** Arthur Romão, Henrique Ferreira, Vinicius Romão  
 **Instituição:** Faculdade de Informática e Administração Paulista (FIAP)  
