@@ -1,6 +1,3 @@
-#REQUERIMENTOS
--Bibliotecas necessárias
-
 streamlit
 numpy
 matplotlib
